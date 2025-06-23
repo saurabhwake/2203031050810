@@ -4,4 +4,7 @@
 ![Home Page](./public/home.png)
 
 ### 📊 Dashboard
-![Dashboard](./public/states.png)
+![States](./public/states.png)
+
+###   📊 Statistic
+![Statistic](./public/statistic.png)
