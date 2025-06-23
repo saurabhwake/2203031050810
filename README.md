@@ -1,7 +1,7 @@
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](./public/homepage.png)
+![Home Page](./public/home.png)
 
 ### 📊 Dashboard
-![Dashboard](./public/dashboard.png)
+![Dashboard](./public/states.png)
