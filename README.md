@@ -10,7 +10,7 @@
 ![Statistic](./public/statistic.png)
 
 
-### Client Id,Scvret code 
+### Client Id,Secret code 
 
 {
     "email": "2203031050810@paruluniversity.ac.in",
